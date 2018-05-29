@@ -1,0 +1,12 @@
+
+title: ほげ ほげ男
+date: 2017-04-05
+# self_introduction:
+#  long: ほげほげ男です。よろしくおねがいします！
+#  short: しゃす！
+contents:
+  - ./content.txt
+isPublish: false
+meta:
+  id: 1
+  path: hoge.com/test/1
